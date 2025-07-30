@@ -1,15 +1,16 @@
 # 💫 About Me:
-# 🏆 7x Hackathon + Ideathon Winner 🏆
+# 🏆 8x Hackathon + Ideathon Winner 🏆
 👋 Hi there, I'm SHANTANU KULKARNI!  
 
 ## 🏅 Hackathon Achievements:
-- 🥇 **1st Prize** - CIH 2.0 Nagpur  
-- 🥉 **3rd Prize** - Ideathon 2.0 Mumbai  
-- 🥈 **2nd Prize** - DIPEX 2025  
-- 🥇 **1st Prize** - MKD Spark Nandurbar  
-- 🥉 **2nd Runner Up** - Hack The Gap  
-- 🥈 **2nd Prize** - WINGS 2025  
-- 🥇 **1st Prize** - TechLegion  
+- 🥇 **1st Prize** - CIH 2.0 ,Nagpur
+- 🥇 **1st Prize** - MKD Spark, Nandurbar
+- 🥇 **1st Prize** - TechLegion  , Chhatrapati Sambhajinagar  
+- 🥈 **2nd Prize** - IDEA Hackathon , MUMBAI
+- 🥈 **2nd Prize** - DIPEX 2025 , Pune 
+- 🥈 **2nd Prize** - WINGS 2025 , Chhatrapati Sambhajinagar 
+- 🥉 **3rd Prize** - Ideathon 2.0, Mumbai  
+- 🥉 **2nd Runner Up** - Hack The Gap , Chhatrapati Sambhajinagar  
 
 <br>
 
