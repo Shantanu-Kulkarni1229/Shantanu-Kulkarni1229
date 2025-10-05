@@ -14,7 +14,7 @@
 
 <br>
 
-I'm a passionate 2nd year Computer Science student with expertise in **Full-Stack Development (MERN)**, **App Development (Flutter & React Native)**, and **competitive programming**. My journey revolves around building innovative solutions while exploring AI, DSA, and cutting-edge technologies.  
+I'm a passionate 3rd year Computer Science student with expertise in **Full-Stack Development (MERN)**, **App Development (React Native)**, **Gen AI** and **competitive programming**. My journey revolves around building innovative solutions while exploring AI, DSA, and cutting-edge technologies.  
 
 ## 🔭 Current Focus  
 - **App Development**: Building cross-platform apps with Flutter & React Native  
