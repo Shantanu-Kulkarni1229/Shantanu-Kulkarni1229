@@ -1,68 +1,181 @@
-# 💫 About Me:
-# 🏆 12x Hackathon + Ideathon Winner 🏆
-👋 Hi there, I'm SHANTANU KULKARNI!  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:8A2BE2&height=220&section=header&text=Shantanu%20Kulkarni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20App%20%7C%20Gen%20AI%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-## 🏅 Hackathon Achievements:
-- 🥇 **1st Prize** - CIH 2.0 ,Nagpur
-- 🥇 **1st Prize** - MKD Spark, Nandurbar
-- 🥇 **1st Prize** - TechLegion  , Chhatrapati Sambhajinagar 
-- 🥇 **SIH Finalist ** - Smart India Hackathon ,Guntur , Andhra Pradesh
-- 🥈 **2nd Prize** - IDEA Hackathon , MUMBAI
-- 🥈 **2nd Prize** - DIPEX 2025 , Pune 
-- 🥈 **2nd Prize** - WINGS 2025 , Chhatrapati Sambhajinagar
-- 🥈 **2nd Prize** - Avishkar 2025 , Chhatrapati Sambhajinagar
-- 🥉 **3rd Prize** - Ideathon 2.0, Mumbai  
-- 🥉 **2nd Runner Up** - Hack The Gap , Chhatrapati Sambhajinagar  
-- 🥉 **consellation Prize** -MUJHackX , Manipal University, Jaipur , Rajasthan  
-- 🥉 **Best Innovation and Approach Award* -Hackstrom , JEC , Jaipur , Rajasthan  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Final+Year+CS+Student+%40+Deogiri+Institute;13x+Hackathon+%2B+Ideathon+Winner+%F0%9F%8F%86;Building+with+RAG%2C+LLMs+%26+Agentic+AI;React+%7C+React+Native+%7C+Node.js+%7C+FastAPI;Deployed+in+Production+Across+30%2B+Police+Stations" alt="Typing SVG" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
 
-I'm a passionate 3rd year Computer Science student with expertise in **Full-Stack Development (MERN)**, **App Development (React Native)**, **Gen AI** and **competitive programming**. My journey revolves around building innovative solutions while exploring AI, DSA, and cutting-edge technologies.  
-
-## 🔭 Current Focus  
-- **App Development**: Building cross-platform apps with Flutter & React Native  
-- **AI/ML**: Exploring TensorFlow, PyTorch, and AI-driven applications  
-- **Advanced DSA**: Solving complex problems on LeetCode & Codeforces  
-- **Full-Stack**: Mastering Next.js, Nest.js, and scalable architecture  
-
-## 🌱 What I'm Learning  
-- **Mobile Development**: Flutter, React Native, Firebase  
-- **AI/ML**: Python, Neural Networks, NLP  
-- **Web Technologies**: Next.js, GraphQL, Microservices  
-- **System Design**: Scalable backend architectures  
-
-## 🛠️ Tech Stack  
-### App Development  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-
-### Web Development  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-
-### AI/ML & Data Science  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-
-### Competitive Programming  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)  
-
-## ⚡ Fun Fact  
-I'm not only passionate about coding but also a professional musician. I play piano, guitar, drum set, and dabble in various other instruments. Music fuels my creativity and serves as a perfect balance to my technical pursuits.  
-
-Let's connect and build something amazing together!  
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shantanu_kulkarni_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-kulkarni-0b92a428b) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shantanu-Kulkarni1229&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shantanu-Kulkarni1229&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu-Kulkarni1229&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shantanu-Kulkarni1229&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="mailto:shantanukulkarni1229@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shantanu-kulkarni-0b92a428b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Shantanu-Kulkarni1229"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/_shantanu_kulkarni_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shantanu-Kulkarni1229&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💫 About Me
+
+I'm a **Final Year Computer Science Engineering student** (Deogiri Institute of Engineering and Management Studies, CGPA 7.50) and a **Software Engineering Intern at Faeda Digital Incubator**, where I build production Generative AI features into full-stack products. My work spans **Web Development, App Development, Generative AI, and Agentic AI systems** — from RAG pipelines running offline for police departments to real-time marketplaces used by real businesses.
+
+- 🔭 Currently building **AI-driven full-stack applications** and **agentic workflows** @ Faeda Digital Incubator
+- 🧠 Deep focus on **RAG, LLM orchestration, vector search, and agentic AI pipelines**
+- 📱 Building cross-platform apps with **React Native**
+- 🏆 **13x Hackathon & Ideathon Winner**, SIH 2025 Finalist
+- 🎹 When I'm not coding — I'm playing piano, guitar, or drums. Music keeps the creativity flowing.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+</p>
+
+---
+
+### 🏅 Hackathon & Ideathon Wins
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f4b9d05-8229-4b6b-9c30-6f2e6b6c30d3.gif" width="120">
+</p>
+
+| 🥇 1st Place | 🥈 2nd Place | 🥉 3rd Place | 🎖️ Finalist |
+|---|---|---|---|
+| CIH 2.0, Nagpur | IDEA Hackathon, Mumbai | Ideathon 2.0, Mumbai | Smart India Hackathon 2025 |
+| MKD Spark, Nandurbar | DIPEX 2025, Pune | Hack The Gap 1.0, Chh. Sambhajinagar | |
+| TechLegion, Chh. Sambhajinagar | WINGS 2025, Chh. Sambhajinagar | MUJHackX 3.0, Manipal Univ. Jaipur | |
+| Hack The Gap 2.0, Chh. Sambhajinagar | Avishkar 2025, Chh. Sambhajinagar | HackStrom, JEC Jaipur (Best Innovation & Approach) | |
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css,reactnative,flutter,firebase,python,fastapi,cpp,js,java,mongodb,postgres,git,github,docker,aws,postman&theme=dark&perline=11" />
+</p>
+
+**Web Development**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**App Development**
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+**Generative AI & Agentic AI**
+<p>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+</p>
+
+**Databases & Backend Infra**
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+**Languages, Tools & DevOps**
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🚔 [TAPAS KIRAN — AI Assistant for Police Department](https://github.com/Shantanu-Kulkarni1229)
+An AI-powered knowledge retrieval platform using **RAG, vector embeddings, and locally-hosted LLMs (Ollama)** to give Maharashtra Police secure, **offline** access to SOPs, legal provisions, and investigation guidelines. Live in production across **30+ police stations** with **250+ daily officer logins**.
+`React.js` `Node.js` `Express.js` `MongoDB` `RAG` `Ollama` `Vector Embeddings` `REST APIs`
+
+#### 🕵️ MOB Suggestion App — Criminal Tracking System
+A centralized criminal-tracking platform for Maharashtra Police with a scalable schema for offender search, categorization, and monitoring, secured with **JWT auth and RBAC**. Deployed across **30+ police stations**.
+`MERN Stack` `JWT` `RBAC` `REST APIs`
+
+#### 🕉️ SVARAM.AI — GenAI Sanskrit Chandas Identification Platform
+An AI-powered platform that classifies Sanskrit shlokas across **100+ Chandas patterns**, combining LLMs, NLP, and RAG with a **FastAPI** backend, contextual prompt engineering, and confidence scoring for explainable predictions.
+`Python` `FastAPI` `RAG` `LLMs` `NLP`
+
+#### 🛠️ GoWurk — On-Demand Service Marketplace
+A cross-platform, real-time service marketplace connecting users with local providers via **React Native**, featuring live booking, payments, and location-based discovery.
+`React Native` `Node.js` `Socket.IO` `Razorpay` `FCM` `Google Maps API`
+
+#### ✈️ Aarohan Holidays — Full-Stack Travel Booking Platform
+A commercial, production-live travel booking platform with tour listings, secure **Razorpay** checkout, automated email pipelines, and an admin dashboard for managing bookings.
+`React.js` `Node.js` `MongoDB` `Razorpay`
+
+---
+
+### 💼 Experience
+
+**Software Engineering Intern — Faeda Digital Incubator** *(July 2026 – Present, Remote)*
+Building full-stack applications with **Generative AI** features and collaborating across frontend, backend, and AI integration teams.
+
+**Software Engineering Intern — Nish-e-Services** *(May 2025 – Sept 2025)*
+Built scalable full-stack applications with **React.js, Node.js**, and database-driven architectures in an Agile environment.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shantanu-Kulkarni1229/Shantanu-Kulkarni1229/output/github-contribution-grid-snake.svg" width="100%">
+</p>
+
+> ⚙️ **One-time setup needed:** this animated snake renders your real contribution graph, but it needs a tiny GitHub Action running in your profile repo to generate the SVG daily. I've added the exact workflow file below — see the note after this README.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shantanu-Kulkarni1229&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu-Kulkarni1229&theme=radical&hide_border=true" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu-Kulkarni1229&theme=radical&hide_border=true&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shantanu-Kulkarni1229&theme=radical&no-frame=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90">
+  <br/>
+  <i>Let's connect and build something amazing together! 🚀</i><br/>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Shantanu-Kulkarni1229&icon=0&color=6" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:61DAFB&height=120&section=footer" width="100%"/>
